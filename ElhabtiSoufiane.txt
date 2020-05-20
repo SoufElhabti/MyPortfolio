@@ -1,0 +1,15 @@
+<span id="a">root@ElhabtiSoufiane</span>:<span id="b">~</span><span id="c">$</span> <span id="f"> cd <!-- kjsdfhkjdhsfkjdshfkj -->About_Me/</span>
+<span id="a">root@ElhabtiSoufiane</span>:<span id="b">~/About_Me</span><span id="c">$</span> <span id="f"> chmod +x <!-- kjsdfhkjdhsfkjdshfkj -->ElhabtiSoufiane.sh</span>
+<span id="a">root@ElhabtiSoufiane</span>:<span id="b">~/About_Me</span><span id="c">$</span> <span id="f"><!-- kjsdfhkjdhsfkjdshfkj -->./ElhabtiSoufiane.sh</span><br/><br/>
+<p id="f">----------------------------------------------------------------------------------------------------------------------------------------------------</p>
+<p id="f">My favorite code quote, "<span id="k">You can do everything in bash man</span>" ~<span id="f">tomnomnom<span>.</p> <!-- sjkfhskjf -->
+
+<p id ="f">Hey There! I am El Habti Soufiane.<p><!-- laglaglaglaglaglaglaglaglaglaglaglag --><p id ="f">I am currently studying IT security at ENSIAS (Rabat) .</p>
+<p id="f">I Break and secure stuff, i play CTFs, i also read and write articles about InfoSec,  and i am gamer (League of Legends, Apex) </p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
+<p id="f"> I am a member of a CTF team Called K1_W4L0, we're currently the 1st team in our country <a href="https://ctftime.org/team/78430"> CTFtime</a>.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
+<p id="f">I also hack boxes to learn more about pentesting and i'm currently ranked as a hacker on hacktheboxplateform<a href="https://www.hackthebox.eu/home/users/profile/103432"> My Profile</a>.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
+<p id="f"> You can visit my other profiles, here: <br> <a href="https://www.linkedin.com/in/el-habti-soufiane-06865a155/">LinkedIn</a> <br> <a href="https://github.com/SoufElhabti">GitHub</a> <br> <a href="https://medium.com/@soufianehabti">Medium.</a> </p>
+
+<p id="f">If you would like to get in touch with me<!-- slightdelayhere-->, feel free to send me an email at  <a href="mailto: elhabtiesoufiane@gmail.com">elhabtiesoufiane@gmail.com</a>.</p>
+<span id="a">root@ElhabtiSoufiane</span>:<span id="b">~/About_Me</span><span id="c">$</span> <span id="f"><span id="f">cd ..</span>
+<span id="a">root@ElhabtiSoufiane</span>:<span id="b">~</span><span id="c">$</span>

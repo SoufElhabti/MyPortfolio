@@ -1,0 +1,74 @@
+ 
+body {
+	background-color: rgb(61, 14, 14);
+	
+	
+}
+#v{
+	text-align: center;
+	color: #fff;
+	font-family: 'Iceland', cursive;
+	font-size: large;
+}
+#bar{
+	border:2px solid rgb(255, 255, 255);
+	margin-left:auto;
+	margin-right:auto;
+	height:50px;
+	width:750px;
+	
+}
+#console {
+	font-family: courier, monospace;
+	color: #fff;
+	width:750px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:100px;
+	font-size:14px;
+	border:2px solid rgb(255, 255, 255);
+}
+p.solid {border-style: solid;}
+
+a {
+	color: #0bc;
+	text-decoration: none;
+	/* Keyword values */
+	font-family: 'Iceland', cursive;
+}
+#f {
+	color: #fff;
+	font-family: 'Iceland', cursive;
+	font-size: large;
+}
+#a {
+	color: #0f0;
+	font-family: 'Iceland', cursive;
+	font-size: large;
+}
+
+#c {
+	color: #0bc;
+	font-family: 'Iceland', cursive;
+	font-size: large;
+}
+
+#b {
+	color: #ff0096;
+	font-family: 'Iceland', cursive;
+	font-size: large;
+}
+
+#k {
+    	animation: change 1s;
+}
+
+#op{
+    	color: #888888
+}
+
+@keyframes change {
+    	0%  { color:  #0f0; }
+    	50% { color:  #0f0; }
+    	99% { color: black; }
+}
